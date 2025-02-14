@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manjeet Malhotra</h1>
 <h3 align="center">A passionate DeveOps Engineer from India I work in WebPanelSalution company IT sector and my Free Time I Solve this LeedCode Problem .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wpscoder1&label=Profile%20views&color=0e75b6&style=flat" alt="wpscoder1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wpscoder&label=Profile%20views&color=0e75b6&style=flat" alt="wpscoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wpscoder1" alt="wpscoder1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wpscoder" alt="wpscoder1" /></a> </p>
 
 - 🔭 I’m currently working on **ANGULAR**
 
